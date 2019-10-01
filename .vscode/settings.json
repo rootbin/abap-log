@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/package*.xml": true,
+        "**/z*.xml": true,
+        "**/Z*.xml": true
+    },
+    "workbench.colorTheme": "Default Light+"
+}
